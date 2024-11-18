@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "HP Pavilion 15",
+        "image": "https://i.ibb.co.com/wzcdG9V/laptop1.webp",
+        "category": "Laptop",
+        "price": 799.99,
+        "description": "A reliable, sleek laptop with powerful performance for multitasking.",
+        "specification": ["Intel Core i5", "8GB RAM", "256GB SSD", "15.6-inch FHD display"],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "id": 2,
+        "name": "MacBook Pro 13",
+        "image": "https://i.ibb.co.com/34zqf4b/macbook2.jpg",
+        "category": "Macbook",
+        "price": 1299.99,
+        "description": "Compact and powerful, featuring the Apple M1 chip for seamless performance.",
+        "specification": ["Apple M1 chip", "8GB RAM", "256GB SSD", "13-inch Retina display"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy S21",
+        "image": "https://i.ibb.co.com/YPVjs78/phone1.jpg",
+        "category": "Phone",
+        "price": 699.99,
+        "description": "Experience next-level photography with a stunning display and powerful performance.",
+        "specification": ["Exynos 2100", "8GB RAM", "128GB storage", "6.2-inch Dynamic AMOLED"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Dell XPS 13",
+        "image": "https://i.ibb.co.com/2PkZjGf/laptop2.jpg",
+        "category": "Laptop",
+        "price": 999.99,
+        "description": "Ultra-thin, ultra-light, and powerful with a beautiful edge-to-edge display.",
+        "specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13.3-inch FHD display"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "iPhone 13",
+        "image": "https://i.ibb.co.com/wKGVhFH/iphone1.jpg",
+        "category": "Iphone",
+        "price": 899.99,
+        "description": "Experience Apple’s best features with a new dual-camera system and A15 Bionic chip.",
+        "specification": ["A15 Bionic chip", "128GB storage", "6.1-inch Super Retina XDR display"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "name": "Logitech MX Master 3",
+        "image": "https://i.ibb.co.com/0BfvYNm/accessories1.jpg",
+        "category": "Accessories",
+        "price": 99.99,
+        "description": "A highly responsive and ergonomic mouse designed for precision and comfort.",
+        "specification": ["Bluetooth", "USB-C rechargeable", "7 buttons"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "name": "ASUS ROG Phone 5",
+        "image": "https://i.ibb.co.com/zmPHcp5/phone2.jpg",
+        "category": "Phone",
+        "price": 999.99,
+        "description": "Designed for gamers with a high-refresh-rate display and superior battery life.",
+        "specification": ["Snapdragon 888", "12GB RAM", "256GB storage", "6.78-inch AMOLED display"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "id": 8,
+        "name": "MacBook Air M1",
+        "image": "https://i.ibb.co.com/yq59SDC/macbook3.jpg",
+        "category": "Macbook",
+        "price": 999.99,
+        "description": "Lightweight and powerful, with all-day battery life thanks to the M1 chip.",
+        "specification": ["Apple M1 chip", "8GB RAM", "256GB SSD", "13-inch Retina display"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 9,
+        "name": "Sony WH-1000XM4",
+        "image": "https://i.ibb.co.com/8BwXWpZ/accessories2.png",
+        "category": "Accessories",
+        "price": 349.99,
+        "description": "Noise-canceling headphones with outstanding sound quality and comfort.",
+        "specification": ["Bluetooth", "Active Noise Cancellation", "30-hour battery life"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": 10,
+        "name": "Microsoft Surface Laptop 4",
+        "image": "https://i.ibb.co.com/863tdXG/laptop3.webp",
+        "category": "Laptop",
+        "price": 1099.99,
+        "description": "Sleek and versatile, perfect for multitasking and designed with premium materials.",
+        "specification": ["AMD Ryzen 5", "8GB RAM", "256GB SSD", "13.5-inch PixelSense display"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "id": 11,
+        "name": "iPhone SE (2022)",
+        "image": "https://i.ibb.co.com/qJmh82M/iphone2.jpg",
+        "category": "Iphone",
+        "price": 429.99,
+        "description": "Compact and powerful, with the A15 chip and a classic design.",
+        "specification": ["A15 Bionic chip", "64GB storage", "4.7-inch Retina HD display"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "id": 12,
+        "name": "Apple AirPods Pro",
+        "image": "https://i.ibb.co.com/2jWVCrL/accessories3.jpg",
+        "category": "Accessories",
+        "price": 249.99,
+        "description": "Wireless earbuds with active noise cancellation and spatial audio.",
+        "specification": ["Bluetooth", "Active Noise Cancellation", "Spatial Audio"],
+        "availability": true,
+        "rating": 4.8
+    }
+]
